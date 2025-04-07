@@ -12,7 +12,8 @@ public class Main { //Standard Main class setup.
 
 
 
-        Lesson1.run();
-        Lesson2.run();
+        //Lesson1.run();
+        //Lesson2.run();
+        Lesson3.run();
     }
 }

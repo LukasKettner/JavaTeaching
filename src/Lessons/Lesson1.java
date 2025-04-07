@@ -17,7 +17,7 @@ public class Lesson1 {
         System.out.println(" until a new line is made");
 
         //All programming languages use something known as data types to hold specific variables, for example one to hold a string of text and a different one to hold a number
-        // These are the main java data types and proper instantion
+        // These are the main java data types and proper instantiation.
         // Instantiation format is as follows: DataType name = Value;
 
         int Number = 17; // int holds an integer number, 1,2,3,4,5 but cannot hold decimal values
